@@ -39,3 +39,4 @@ No additional libraries or dependencies are required. Just run the script and yo
 This tool was created by **NomFascinant** for educational purposes only. It should not be used for any malicious or harmful activity. Always respect the privacy and terms of service of the platforms or services you interact with.
 
 # 👨‍🍳 Author: NomFascinant
+https://github.com/NomFascinant
