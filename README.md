@@ -29,7 +29,6 @@ JustGen can generate the following items:
   ```bash
   python justgen.py
   ```
-
   Select an option from the menu to generate the desired item.
 
 # 💼 Requirements
